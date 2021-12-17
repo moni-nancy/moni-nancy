@@ -13,7 +13,7 @@
 ### <div align="center">I'm a student at the Federal University of Agriculture, Abeokuta</div>  
   
 
-- 🏫 I'm currently studying: Home Science and Management (Child Development and Family Studies).
+- 🏫 Currently studying: Home Science and Management (Child Development and Family Studies).
 
 👩‍💻Also studying: Front-end development 
 

@@ -1,8 +1,7 @@
+<img src="https://github.com/moni-nancy/moni-nancy/blob/main/me.png" height= "25%" width= "100%" align="center">
 
 
-
-
-### Myself
+## Myself
 - 😄She/Her
 - 🌺👑Olatuja Nancy
 - 👶🏽Feb 13th 2001
@@ -10,7 +9,7 @@
 - 💖Long walks, meditation and nature sound.
 
 
-### Educational Background  
+## Educational Background  
 ### <div align="center">I'm a student at the Federal University of Agriculture, Abeokuta</div>  
   
 
@@ -24,7 +23,7 @@
   
 
 
-### Interests  
+## Interests  
 - 🔭 I’m currently working on Responsive and creative web designs
 
 - 🌱 I’m furthering my  learning on React and jQuery, Figma  
@@ -35,7 +34,7 @@
 
 
 
-### Free Time  
+## Free Time  
 - 💖 Hobbies: Baking, My acoustic guitar and music, learning a new language (currently Spanish), nature photography🥰
 
 - 👩‍💻 Write my codes, make new designs  
@@ -57,16 +56,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />    
 </div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
+
 
 <br/>  
 

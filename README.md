@@ -17,7 +17,7 @@
 
 👩‍💻Also studying: Front-end development 
 
-- 🏫 Intending member of  JCI FUNAAB CHAPTER
+- 🏫 member of  JCI FUNAAB CHAPTER
 
 - 🏫Empower Her Community: Member  
   

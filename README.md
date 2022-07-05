@@ -26,7 +26,7 @@
 ## Interests  
 - 🔭 I’m currently working on Responsive and creative web designs
 
-- 🌱 I’m furthering my  learning on React and jQuery, Figma  
+- 🌱 I’m furthering my  learning on React and JavaScript
   
 
 - ❓ Ask me about anything related to HTML, CSS and Bootstrap.  
@@ -37,7 +37,7 @@
 ## Free Time  
 - 💖 Hobbies: Baking, My acoustic guitar and music, learning a new language (currently Spanish), nature photography🥰
 
-- 👩‍💻 Write my codes, make new designs  
+- 👩‍💻 Working on personal projects 
   
 
 <br/>  
@@ -49,8 +49,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />    
 </div>
 </td></tr></table>  

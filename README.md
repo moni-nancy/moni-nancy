@@ -1,4 +1,4 @@
-<img src="https://github.com/moni-nancy/moni-nancy/blob/main/greetings.png" height= "25%" width= "50%" align-items="center">
+<img src="https://github.com/moni-nancy/moni-nancy/blob/main/greetings.png" height= "25%" width= "50%" align="center">
 
 
 ## Myself
@@ -19,7 +19,7 @@
 
 - 🏫 member of  JCI FUNAAB CHAPTER
 
-- 🏫Empower Her Community: Member  
+- 🏫Empower Her Community: Member and Volunteer 
   
 
 
@@ -29,7 +29,7 @@
 - 🌱 I’m furthering my  learning on React and JavaScript
   
 
-- ❓ Ask me about anything related to HTML, CSS and Bootstrap.  
+- ❓ Ask me about anything related to HTML, CSS and Bootstrap, JavaScript, Nature, Food, Music.  
   
 
 

@@ -1,4 +1,4 @@
-<img src="https://github.com/moni-nancy/moni-nancy/blob/main/greetings.png" height= "25%" width= "50%" align="center">
+<img src="https://github.com/moni-nancy/moni-nancy/blob/main/greetings.png" height= "25%" width= "50%" align-items="center">
 
 
 ## Myself
